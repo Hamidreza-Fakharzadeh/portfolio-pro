@@ -11,8 +11,6 @@ import Contact from './components/Contact';
 import Certificate from './components/Certificate';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
-import { useParams } from 'react-router';
-
 function App() {
 	return (
 		<Router>
