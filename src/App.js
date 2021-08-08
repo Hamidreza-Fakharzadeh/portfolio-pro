@@ -9,7 +9,7 @@ import Experience from './components/Experience';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Certificate from './components/Certificate';
-import { BrowserRouter as Router, Switch, Route, Link, BrowserRouter } from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
 import { useParams } from 'react-router';
 
